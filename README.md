@@ -1,7 +1,6 @@
 ### Привет! Я Михайленко Софья 
- 
- Java-разработчик
-
+<!--  
+ Java-разработчик -->
 **Стек технологий:** Java, Spring Boot, Spring Data, Hibernate, базы данных PostgreSQL и H2, Docker, Unit-тестирование, Git, Maven.
 
 **Немного о себе:** <br>
